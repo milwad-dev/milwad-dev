@@ -42,3 +42,7 @@ I'm trying to be the best at my job :)
 ## My laravel packages
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-crod"> <a href="https://github.com/milwad-dev/laravel-crod">  Laravel Crod</a> (Make easy & fast crud for Laravel)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-validate"> <a href="https://github.com/milwad-dev/laravel-validate">  Laravel Validate</a> (Help to write easy & faster advance validation for Laravel)
+ 
+ ## My projects
+  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/shopline"> <a href="https://github.com/milwad-dev/shopline">  Shopline</a> (Big & Advance shop with Laravel framework)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/crm-app"> <a href="https://github.com/milwad-dev/crm-app">  Crm app</a> (The open source & big crm app)
