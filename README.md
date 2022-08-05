@@ -7,11 +7,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/milwad84dev/)](https://t.me/milwad84dev/)
 
 ## 🚀 About Me
-I love bug.
-I love team working.
-I'm hard working.
-I'm trying to be the best at my job :)
-
+##### I love bug. <br>
+##### I love team working. <br>
+##### I'm hard working. <br>
+##### I'm trying to be the best at my job :) <br>
+-------
+I had an account before and now it is deactivated and this is my main account.
+https://github.com/miladev-ent
 
 ## 🏅 Achievements
 - 😄 Fun
