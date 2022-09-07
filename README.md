@@ -34,12 +34,11 @@ https://github.com/miladev-ent
 
 ## 📈 Stats
 
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=milwad-dev&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=milwad-dev&show_icons=true&hide_border=true" alt="Milwad github states">
 </div>
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milwad-dev&layout=compact&theme=vision-friendly-dark" height="194">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milwad-dev&layout=compact&theme=vision-friendly-dark" height="194" width="800px">
 </div>
 <hr>
 
