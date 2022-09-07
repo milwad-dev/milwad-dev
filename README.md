@@ -36,7 +36,10 @@ https://github.com/miladev-ent
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=milwad-dev&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milwad-dev&layout=compact&theme=vision-friendly-dark" height="194">
 </div>
+<hr>
+
 
 ## My laravel packages
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-crod"> <a href="https://github.com/milwad-dev/laravel-crod">  Laravel Crod</a> (Make easy & fast crud for Laravel)
