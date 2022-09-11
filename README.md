@@ -15,11 +15,6 @@
 I had an account before and now it is deactivated and this is my main account.
 https://github.com/miladev-ent
 
-## 🏅 Achievements
-- 😄 Fun
-- ⚡ Gamer
-- 🇮🇷 Live in iran
-
 ## 💎 Love Languages
 ![php](https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
