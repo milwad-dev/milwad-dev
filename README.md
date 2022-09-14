@@ -1,5 +1,3 @@
-### Hi 👋
-
 <img src="https://komarev.com/ghpvc/?username=milwad-dev" alt=milwad-dev /> [![Linkedin Badge](https://img.shields.io/badge/-Milwad%20Dev-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milwad-khosravi-26a355230/)](https://www.linkedin.com/in/milwad-khosravi-26a355230/)
 [![Gmail Badge](https://img.shields.io/badge/-milwad.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milwad.dev@gmail.com)](mailto:milwad.dev@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/milwad84dev/)](https://t.me/milwad84dev/)
