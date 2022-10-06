@@ -30,8 +30,10 @@ https://github.com/miladev-ent
 
 ## ⚡ Love Frameworks
 ![laravel](https://img.shields.io/badge/Laravel-d41a0d?style=for-the-badge&logo=laravel&logoColor=white)
+![vuejs](https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-34baeb?style=for-the-badge&logo=flutter&logoColor=white)
+![gin](https://img.shields.io/badge/Gin-34baeb?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📈 Stats
 
