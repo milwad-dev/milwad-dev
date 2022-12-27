@@ -24,7 +24,7 @@ https://github.com/miladev-ent
 [![My Skills](https://skillicons.dev/icons?i=laravel,vuejs,django,flutter,gin)](https://skillicons.dev)
 
 ## 💜 Love Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab)](https://skillicons.dev)
 
 ## 📈 Stats
 
