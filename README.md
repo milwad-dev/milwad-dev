@@ -7,7 +7,7 @@
 https://github.com/miladev-ent
  </strong>
 
-## My laravel packages
+## My Laravel packages
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-crod"> <a href="https://github.com/milwad-dev/laravel-crod">  Laravel Crod</a> (Make easy & fast crud for Laravel)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-validate"> <a href="https://github.com/milwad-dev/laravel-validate">  Laravel Validate</a> (Help to write easy & faster advance validation for Laravel)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-attributes"> <a href="https://github.com/milwad-dev/laravel-attributes">  Laravel Attributes</a> (Make attribute easy for Laravel)
