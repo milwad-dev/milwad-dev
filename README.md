@@ -23,15 +23,6 @@ https://github.com/miladev-ent
 
 Laravel Docs: https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev
 
-## 💎 Love Languages
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,python,dart,go)](https://skillicons.dev)
-
-## ⚡ Love Frameworks
-[![My Skills](https://skillicons.dev/icons?i=laravel,vuejs,nuxt,django,flutter)](https://skillicons.dev)
-
-## 💜 Love Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,postman,github,gitlab)](https://skillicons.dev)
-
 ## 📈 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=milwad-dev&show_icons=true&hide_border=true" alt="Milwad github states" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milwad-dev&layout=compact&theme=vision-friendly-dark" alt="milwad states" height="180" />
