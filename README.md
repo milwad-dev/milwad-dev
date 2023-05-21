@@ -23,6 +23,7 @@ https://github.com/miladev-ent
 
 Laravel Docs: https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev <br>
 Laravel Framework: https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev
+Pest Plugin Laravel: https://github.com/pestphp/pest-plugin-laravel/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev
 
 ## 📈 Stats
 
