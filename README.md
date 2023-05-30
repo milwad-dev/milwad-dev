@@ -3,10 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-milwad.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milwad.dev@gmail.com)](mailto:milwad.dev@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)]([https://t.me/milwad84dev/](https://www.youtube.com/@milwad))
 
-<strong>
+<h3>
  I had an account before and now it is deactivated and this is my main account !
 https://github.com/miladev-ent
- </strong>
+ </h3>
 
 ## My Laravel packages
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-crod"> <a href="https://github.com/milwad-dev/laravel-crod">  Laravel Crod</a> (Make easy & fast crud for Laravel with automatic query like AI)
