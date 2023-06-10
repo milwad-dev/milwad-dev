@@ -20,10 +20,11 @@ https://github.com/miladev-ent
 
 ## PRS on Open Source
 
-Laravel Docs: https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev <br>
-Laravel Framework: https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev <br>
-Pest Plugin Laravel: https://github.com/pestphp/pest-plugin-laravel/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev <br>
-Bagisto: https://github.com/bagisto/bagisto/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev 
+[Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
+[Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
+[Pest Plugin Laravel](https://github.com/pestphp/pest-plugin-laravel/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
+[Bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev ) <br>
+[Spatie Menu](https://github.com/spatie/menu/pulls?q=is%3Apr+author%3Amilwad-dev) <br>
 
 ## 📈 Stats
 
