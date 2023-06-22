@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)]([https://t.me/milwad84dev/](https://www.youtube.com/@milwad))
 
 <h3>
- I had an account before and now it is deactivated and this is my main account !
+ I had an account before and now it is deactivated and this is my main account!
 https://github.com/miladev-ent
 </h3>
 
@@ -14,9 +14,9 @@ https://github.com/miladev-ent
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-attributes"> <a href="https://github.com/milwad-dev/laravel-attributes">  Laravel Attributes</a> (Make attribute easy for Laravel)
  
  ## My projects
-  - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop with Laravel framework)
+  - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop by Laravel framework)
   - 🎁 <a href="https://github.com/milwad-dev/crm-app"> Crm app</a> (The open source & big crm app)
-  - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advance todo-app (backend) with RestAPI by Laravel framework)
+  - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advanced todo-app (backend) with RestAPI by Laravel framework)
 
 ## PRS on Open Source
 
