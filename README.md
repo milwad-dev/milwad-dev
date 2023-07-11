@@ -18,7 +18,7 @@ https://github.com/miladev-ent
   - 🎁 <a href="https://github.com/milwad-dev/crm-app"> Crm app</a> (The open source & big crm app)
   - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advanced todo-app (backend) with RestAPI by Laravel framework)
 
-## PRS on Open Source
+## PRs on Open Source
 
 [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
 [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
