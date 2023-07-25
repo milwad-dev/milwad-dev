@@ -12,10 +12,11 @@ https://github.com/miladev-ent
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-crod"> <a href="https://github.com/milwad-dev/laravel-crod">  Laravel Crod</a> (Make easy & fast crud for Laravel with automatic query like AI)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-validate"> <a href="https://github.com/milwad-dev/laravel-validate">  Laravel Validate</a> (Help to write easy & faster advance validation for Laravel)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-attributes"> <a href="https://github.com/milwad-dev/laravel-attributes">  Laravel Attributes</a> (Make attribute easy for Laravel)
- 
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-user-monitoring"> <a href="https://github.com/binafy/laravel-user-monitoring">  Laravel User Monitoring </a> (Monitor your user and all activity on your application)
+
  ## My projects
   - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop by Laravel framework)
-  - 🎁 <a href="https://github.com/milwad-dev/crm-app"> Crm app</a> (The open source & big crm app)
+  - 🎁 <a href="https://github.com/milwad-dev/crm-app"> Crm app</a> (The open source & big CRM app)
   - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advanced todo-app (backend) with RestAPI by Laravel framework)
 
 ## PRs on Open Source
