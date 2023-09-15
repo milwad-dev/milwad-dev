@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)]([https://t.me/milwad84dev/](https://www.youtube.com/@milwad))
 
 <h3>
- I had an account before and now it is deactivated and this is my main account!
+I had an account before and now it is deactivated and this is my main account!
 https://github.com/miladev-ent
 </h3>
 
