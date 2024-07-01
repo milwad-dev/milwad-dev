@@ -16,7 +16,7 @@ I had an account before and now it is deactivated and this is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/laravel-attributes"> <a href="https://github.com/milwad-dev/laravel-attributes">  Laravel Attributes</a> (Make attribute easy for Laravel)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-user-monitoring"> <a href="https://github.com/binafy/laravel-user-monitoring">  Laravel User Monitoring </a> (Monitor your user and all activity on your application)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-stub"> <a href="https://github.com/binafy/laravel-stub">  Laravel Stub </a> (Generate stub files very easy in Laravel framework)
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-cart"> <a href="https://github.com/binafy/laravel-cart">  Laravel Cart </a> (Generate stub files very easy in Laravel framework)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-cart"> <a href="https://github.com/binafy/laravel-cart">  Laravel Cart </a> (Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications)
 
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop by Laravel framework)
