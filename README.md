@@ -35,6 +35,7 @@ I had an account before and now it is deactivated and this is my main account!
 [Bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev ) <br>
 [Spatie Menu](https://github.com/spatie/menu/pulls?q=is%3Apr+author%3Amilwad-dev) <br>
 [NativePHP](https://github.com/nativephp/laravel/pulls?q=is%3Apr+author%3Amilwad-dev) <br>
+[Goravel](https://github.com/goravel/framework/pulls?q=is%3Apr+author%3Amilwad-dev) <br>
 
 ## 📈 Stats
 
