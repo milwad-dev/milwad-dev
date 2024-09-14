@@ -19,7 +19,7 @@ I had an account before and now it is deactivated and this is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-cart"> <a href="https://github.com/binafy/laravel-cart">  Laravel Cart </a> (Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications)
 
 ## My Go Packages
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/milwad/go-file"> <a href="https://github.com/milwad-dev/go-file">  Go File</a> (Make easy & fast crud for Laravel with automatic query like AI)
+ - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/go-file"> <a href="https://github.com/milwad-dev/go-file">  Go File</a> (A golang file uploader package)
 
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop by Laravel framework)
