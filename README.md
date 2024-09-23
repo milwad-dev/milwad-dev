@@ -20,7 +20,7 @@ I had an account before and now it is deactivated and this is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/artisan-finder"> <a href="https://github.com/binafy/artisan-finder">  Artisan Finder </a> (Find your artisan commands)
 
 ## My Go Packages
- - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/go-file"> <a href="https://github.com/milwad-dev/go-file">  Go File</a> (A golang file uploader package)
+ - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
 
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop by Laravel framework)
