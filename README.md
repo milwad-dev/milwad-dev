@@ -18,6 +18,7 @@ I had an account before and now it is deactivated and this is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-stub"> <a href="https://github.com/binafy/laravel-stub">  Laravel Stub </a> (Generate stub files very easy in Laravel framework)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-cart"> <a href="https://github.com/binafy/laravel-cart">  Laravel Cart </a> (Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/artisan-finder"> <a href="https://github.com/binafy/artisan-finder">  Artisan Finder </a> (Find your artisan commands)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-unused-finder"> <a href="https://github.com/binafy/laravel-unused-finder">  Laravel Unused Finder </a> (Find the unused code in Laravel)
 
 ## My Go Packages
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
