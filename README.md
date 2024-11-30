@@ -19,6 +19,7 @@ I had an account before and now it is deactivated and this is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-cart"> <a href="https://github.com/binafy/laravel-cart">  Laravel Cart </a> (Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/artisan-finder"> <a href="https://github.com/binafy/artisan-finder">  Artisan Finder </a> (Find your artisan commands)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-unused-finder"> <a href="https://github.com/binafy/laravel-unused-finder">  Laravel Unused Finder </a> (Find the unused code in Laravel)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  Laravel Score </a> (Find the unused code in Laravel)
 
 ## My Go Packages
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
@@ -26,7 +27,7 @@ I had an account before and now it is deactivated and this is my main account!
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop by Laravel framework)
   - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advanced todo-app (backend) with RestAPI by Laravel framework)
-  - 🎁 <a href="https://github.com/milwad-dev/towork-frontend"> ToWork Frontend</a> (The advance todo-app (frontend) with VueJS framework)
+  - 🎁 <a href="https://github.com/milwad-dev/towork-frontend"> ToWork Frontend</a> (The advanced todo-app (frontend) with VueJS framework)
   - 🎁 <a href="https://github.com/milwad-dev/do-it"> Do-It</a> (The advanced todo-app (backend) with RestAPI with Golang)
   - 🎁 <a href="https://github.com/milwad-dev/go-shop"> Go Shop</a> (The advanced todo-app (backend) with RestAPI with Golang)
 
