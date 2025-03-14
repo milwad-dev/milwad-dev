@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)]([https://t.me/milwad84dev/](https://www.youtube.com/@milwad))
 
 <h3>
-I had an account before and now it is deactivated and this is my main account!
+I had an account before, and now it is deactivated. This is my main account!
 </h3>
 <h3>
  https://github.com/miladev-ent
@@ -19,7 +19,8 @@ I had an account before and now it is deactivated and this is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-cart"> <a href="https://github.com/binafy/laravel-cart">  Laravel Cart </a> (Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/artisan-finder"> <a href="https://github.com/binafy/artisan-finder">  Artisan Finder </a> (Find your artisan commands)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  Laravel Score </a> (Find the unused code in Laravel)
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  PHP Color Generator </a> (Find the unused code in Laravel)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/php-color-generator">  PHP Color Generator </a> (Find the unused code in Laravel)
+- <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  Laravel Discount </a> (Find the unused code in Laravel)
 
 ## My Go Packages
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
