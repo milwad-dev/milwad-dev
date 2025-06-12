@@ -22,7 +22,7 @@ I had an account before, and now it is deactivated. This is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/artisan-finder"> <a href="https://github.com/binafy/artisan-finder">  Artisan Finder </a> (Find your artisan commands)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  Laravel Score </a> (Find the unused code in Laravel)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/php-color-generator">  PHP Color Generator </a> (Find the unused code in Laravel)
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-discount"> <a href="https://github.com/binafy/laravel-discount">  Laravel Discount </a> (Give score to anything in Laravel) 
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-discount"> <a href="https://github.com/binafy/laravel-discount">  Laravel Discount </a> (The Laravel-Discount is a Laravel package designed to handle discounts in your application effortlessly.) 
 
 ## My Go Packages
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
