@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)]([https://t.me/milwad84dev/](https://www.youtube.com/@milwad))
 
 <h3>
-I had an account before, and now it is deactivated. This is my main account!
+I had an account before, but it is now deactivated. This is my main account!
 </h3>
 
 <h3>
@@ -20,7 +20,7 @@ I had an account before, and now it is deactivated. This is my main account!
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-stub"> <a href="https://github.com/binafy/laravel-stub">  Laravel Stub </a> (Generate stub files very easy in Laravel framework)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-cart"> <a href="https://github.com/binafy/laravel-cart">  Laravel Cart </a> (Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/artisan-finder"> <a href="https://github.com/binafy/artisan-finder">  Artisan Finder </a> (Find your artisan commands)
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  Laravel Score </a> (Find the unused code in Laravel)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  Laravel Score </a> (Laravel Score is a lightweight and flexible package for adding scoring functionality to any Eloquent model)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/php-color-generator">  PHP Color Generator </a> (Find the unused code in Laravel)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-discount"> <a href="https://github.com/binafy/laravel-discount">  Laravel Discount </a> (The Laravel-Discount is a Laravel package designed to handle discounts in your application effortlessly)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-reactions"> <a href="https://github.com/binafy/laravel-reactions">  Laravel Reaction </a> (Laravel Reactions is a lightweight and flexible package that makes it easy to add reaction functionality)
