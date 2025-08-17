@@ -32,7 +32,7 @@ I had an account before, but it is now deactivated. This is my main account!
   - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Big & Advance shop by Laravel framework)
   - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advanced todo-app (backend) with RestAPI by Laravel framework)
   - 🎁 <a href="https://github.com/milwad-dev/towork-frontend"> ToWork Frontend</a> (The advanced todo-app (frontend) with VueJS framework)
-  - 🎁 <a href="https://github.com/milwad-dev/do-it"> Do-It</a> (The advanced todo-app (backend) with RestAPI with Golang)
+  - 🎁 <a href="https://github.com/milwad-dev/do-it"> Do-It</a> (Do-It is a to-do application built with Golang and a REST API)
   - 🎁 <a href="https://github.com/milwad-dev/go-shop"> Go Shop</a> (The advanced todo-app (backend) with RestAPI with Golang)
 
 ## PRs on Open Source
