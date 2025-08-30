@@ -5,11 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)]([https://t.me/milwad84dev/](https://www.youtube.com/@milwad))
 
 <h3>
-I had an account before, but it is now deactivated. This is my main account!
-</h3>
-
-<h3>
- https://github.com/miladev-ent
+My old account: https://github.com/miladev-ent
 </h3>
 
 ## My Laravel Packages
