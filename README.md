@@ -47,4 +47,8 @@ My old account: https://github.com/miladev-ent
 
 <img src="https://github-readme-stats.vercel.app/api?username=milwad-dev&show_icons=true&hide_border=true" alt="Milwad github states" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milwad-dev&layout=compact&theme=vision-friendly-dark" alt="milwad states" height="180" />
 
+## GitHub Achievements
+
+![Github Streaks](https://github-profile-trophy.vercel.app/?username=milwad-dev&theme=radical&row=1&column=8)
+
 <hr>
