@@ -22,7 +22,7 @@ My old account: https://github.com/miladev-ent
 
 ## My Go Packages
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
- - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  Go Stub</a> (A golang file uploader package)
+ - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/binafy/go-stub">  Go Stub</a> (A golang file uploader package)
 
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopline"> Shopline</a> (Shopline is a full-stack e-commerce platform developed using Laravel, structured with a modular architecture)
