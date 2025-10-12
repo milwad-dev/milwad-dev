@@ -41,8 +41,8 @@ My old account: https://github.com/miladev-ent
 <img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" width="15"> [Spatie Menu](https://github.com/spatie/menu/pulls?q=is%3Apr+author%3Amilwad-dev) <br>
 <img src="https://avatars.githubusercontent.com/u/130286900?s=200&v=4" width="15"> [NativePHP](https://github.com/nativephp/laravel/pulls?q=is%3Apr+author%3Amilwad-dev) <br>
 <img src="https://www.goravel.dev/logo-mini.png" width="15">  [Goravel](https://github.com/goravel/framework/pulls?q=is%3Apr+author%3Amilwad-dev+is%3Amerged) <br>
-<img src="https://github.com/evryn/laravel-toman/raw/master/docs/_media/logo.png" width="15">  [Laravel Toman](https://github.com/evryn/laravel-toman/pulls?q=is%3Apr+is%3Amerged+author%3Amilwad-dev+) <be>
-<img src="https://avatars.githubusercontent.com/u/85696256?s=200&v=4" width="15">  [Chabokan](https://github.com/evryn/laravel-toman/pulls?q=is%3Apr+is%3Amerged+author%3Amilwad-dev+) <be>
+- <img src="https://github.com/evryn/laravel-toman/raw/master/docs/_media/logo.png" width="15">  [Laravel Toman](https://github.com/evryn/laravel-toman/pulls?q=is%3Apr+is%3Amerged+author%3Amilwad-dev+) <be>
+- <img src="https://avatars.githubusercontent.com/u/85696256?s=200&v=4" width="15">  [Chabokan](https://github.com/evryn/laravel-toman/pulls?q=is%3Apr+is%3Amerged+author%3Amilwad-dev+) <be>
 
 ## 📈 Stats
 
