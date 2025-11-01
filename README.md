@@ -37,7 +37,7 @@ My old account: https://github.com/miladev-ent
 - <img src="https://laravel.com/img/logomark.min.svg" width="15"> [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
 - <img src="https://laravel.com/img/logomark.min.svg" width="15"> [Laravel Framework](https://github.com/laravel/framework/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
 - <img src="https://pestphp.com/www/assets/logo.svg" width="15">  [Pest Plugin Laravel](https://github.com/pestphp/pest-plugin-laravel/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev) <br>
-- <img src="https://avatars.githubusercontent.com/u/43133047?s=200&v=4" width="15"> [Bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev ) <br>
+- <img src="https://avatars.githubusercontent.com/u/43133047?s=200&v=4" width="15"> [Bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Amerged+is%3Apr+author%3Amilwad-dev )
 - <img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" width="15"> [Spatie Menu](https://github.com/spatie/menu/pulls?q=is%3Apr+author%3Amilwad-dev)
 - <img src="https://avatars.githubusercontent.com/u/130286900?s=200&v=4" width="15"> [NativePHP](https://github.com/nativephp/laravel/pulls?q=is%3Apr+author%3Amilwad-dev)
 - <img src="https://www.goravel.dev/logo-mini.png" width="15">  [Goravel](https://github.com/goravel/framework/pulls?q=is%3Apr+author%3Amilwad-dev+is%3Amerged)
