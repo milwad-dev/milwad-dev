@@ -5,8 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@milwad.dev)](https://medium.com/@milwad.dev)
 
 <h3>
-My old account: https://github.com/miladev-ent
-</h3>
+My old account: https://github.com/miladev-ent</h3>
 
 > No Internet in IRAN 💔
 
