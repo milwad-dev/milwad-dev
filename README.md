@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-milwad.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milwad.dev@gmail.com)](mailto:milwad.dev@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)](https://www.youtube.com/@milwad)
 [![Medium Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@milwad.dev)](https://medium.com/@milwad.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&link=https://medium.com/@milwad.dev)](https://x.com/MilwadDev)
 
 <h3>
 My old account: https://github.com/miladev-ent</h3>
