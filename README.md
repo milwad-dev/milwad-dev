@@ -33,7 +33,7 @@ My old account: https://github.com/miladev-ent</h3>
   - 🎁 <a href="https://github.com/milwad-dev/towork-frontend"> ToWork Frontend</a> (The advanced todo-app (frontend) with VueJS framework)
   - 🎁 <a href="https://github.com/milwad-dev/do-it"> Do-It</a> (Do-It is a to-do application built with Golang and a REST API)
   - 🎁 <a href="https://github.com/milwad-dev/go-shop"> Go Shop</a> (A simple e-commerce backend written in Go, built around a RESTful API)
-  - 🎁 <a href="https://github.com/milwad-dev/go-url-shortener"> Go URL Shortner</a> (The advanced todo-app (backend) with RestAPI with Golang)
+  - 🎁 <a href="https://github.com/milwad-dev/go-url-shortener"> Go URL Shortner</a> (The url shortner by Go & gRPC)
 
 ## PRs on Open Source
 
