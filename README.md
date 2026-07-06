@@ -22,12 +22,12 @@ My old account: https://github.com/miladev-ent</h3>
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-reactions"> <a href="https://github.com/binafy/laravel-reactions">  Laravel Reaction </a> (A lightweight Laravel package for adding flexible reactions to Eloquent models)
 
 ## My Go Packages
- - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
+ - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (Filei is a lightweight Go package for handling file uploads)
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/binafy/go-stub"> <a href="https://github.com/binafy/go-stub">  Go Stub</a> (Generate stub files with Go)
 
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopsent"> Shopsent</a> (Shopsent is a full-stack e-commerce platform developed using Laravel, structured with a modular architecture)
-  - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advanced todo-app (backend) with RestAPI by Laravel framework)
+  - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (The advanced todo-app (backend) with REST API by Laravel framework)
   - 🎁 <a href="https://github.com/milwad-dev/towork-frontend"> ToWork Frontend</a> (The advanced todo-app (frontend) with VueJS framework)
   - 🎁 <a href="https://github.com/milwad-dev/do-it"> Do-It</a> (Do-It is a to-do application built with Golang and a REST API)
   - 🎁 <a href="https://github.com/milwad-dev/go-shop"> Go Shop</a> (A simple e-commerce backend written in Go, built around a RESTful API)
