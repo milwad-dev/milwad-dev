@@ -18,8 +18,8 @@ My old account: https://github.com/miladev-ent</h3>
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/artisan-finder"> <a href="https://github.com/binafy/artisan-finder">  Artisan Finder </a> (Find your artisan commands)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/laravel-score">  Laravel Score </a> (Laravel Score is a lightweight and flexible package for adding scoring functionality to any Eloquent model)
  - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-score"> <a href="https://github.com/binafy/php-color-generator">  PHP Color Generator </a> (The PHP package for generating and manipulating colors and palettes)
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-discount"> <a href="https://github.com/binafy/laravel-discount">  Laravel Discount </a> (The Laravel-Discount is a Laravel package designed to handle discounts in your application effortlessly)
- - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-reactions"> <a href="https://github.com/binafy/laravel-reactions">  Laravel Reaction </a> (    Laravel Reactions is a lightweight package for adding customizable reactions to any Eloquent model)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-discount"> <a href="https://github.com/binafy/laravel-discount">  Laravel Discount </a> (Laravel Discount is a lightweight package for managing discounts in Laravel applications)
+ - <img alt="Packagist Stars" src="https://img.shields.io/packagist/stars/binafy/laravel-reactions"> <a href="https://github.com/binafy/laravel-reactions">  Laravel Reaction </a> (A lightweight Laravel package for adding flexible reactions to Eloquent models)
 
 ## My Go Packages
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (A golang file uploader package)
