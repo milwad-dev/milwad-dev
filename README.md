@@ -47,6 +47,6 @@ My old account: https://github.com/miladev-ent</h3>
 
 ## 📈 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=milwad-dev&show_icons=true&hide_border=true" alt="Milwad github states" height="180" /> <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milwad-dev&layout=compact&theme=vision-friendly-dark" alt="milwad states" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=milwad-dev&show_icons=true&theme=radical" alt="Milwad github states" height="180" /> <img style="height: 180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=milwad-dev&layout=compact&theme=radical" alt="milwad states" />
 
 <hr>
