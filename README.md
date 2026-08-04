@@ -23,7 +23,7 @@ My old account: https://github.com/miladev-ent</h3>
 
 ## My Go Packages
  - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/milwad-dev/filei"> <a href="https://github.com/milwad-dev/filei">  FileI</a> (Filei is a lightweight Go package for handling file uploads)
- - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/binafy/go-stub"> <a href="https://github.com/binafy/go-stub">  Go Stub</a> (Generate stub files with Go)
+ - <img alt="Packagist Stars" src="https://img.shields.io/github/stars/binafy/go-stub"> <a href="https://github.com/binafy/go-stub">  Go Stub</a> (A tiny, zero-dependency Go toolkit for generating boilerplate from stub templates)
 
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopsent"> Shopsent</a> (Shopsent is a full-stack e-commerce platform developed using Laravel, structured with a modular architecture)
