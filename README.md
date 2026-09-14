@@ -1,7 +1,7 @@
 [![Views Badge](https://komarev.com/ghpvc/?username=milwad-dev)](https://github.com/milwad-dev)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/milwad84dev/)](https://t.me/milwad84dev/)
 [![Gmail Badge](https://img.shields.io/badge/-milwad.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:milwad.dev@gmail.com)](mailto:milwad.dev@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@milwad)](https://www.youtube.com/@milwad)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@MilwadKhosravi)](https://www.youtube.com/@MilwadKhosravi)
 [![Medium Badge](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@milwad.dev)](https://medium.com/@milwad.dev)
 [![Twitter Badge](https://img.shields.io/twitter/follow/MilwadDev)](https://x.com/MilwadDev)
 
