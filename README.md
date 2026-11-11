@@ -30,7 +30,8 @@ My old account: https://github.com/miladev-ent</h3>
  ## My Projects
   - 🎁 <a href="https://github.com/milwad-dev/shopsent"> Shopsent</a> (Shopsent is a full-stack e-commerce platform developed using Laravel, structured with a modular architecture)
   - 🎁 <a href="https://github.com/milwad-dev/towork-backend"> ToWork Backend</a> (Open-source advanced todo app API built with Laravel 13: modular, tested, and Docker-ready)
-  - 🎁 <a href="https://github.com/milwad-dev/towork-frontend"> ToWork Frontend</a> (Open-source advanced todo app built with Vue 3 and Tailwind: Kanban, calendar, and dark mode)
+  - 🎁 <a href="https://github.com/milwad-dev/towork-vue"> ToWork VueJS</a> (Open-source advanced todo app built with Vue 3 and Tailwind: Kanban, calendar, and dark mode)
+  - 🎁 <a href="https://github.com/milwad-dev/towork-next"> ToWork NextJS</a> (Open-source advanced todo app built with Next.js and Tailwind: Kanban, calendar, and dark mode)
   - 🎁 <a href="https://github.com/milwad-dev/do-it"> Do-It</a> (Do-It is a to-do application built with Golang and a REST API)
   - 🎁 <a href="https://github.com/milwad-dev/go-shop"> Go Shop</a> (A simple e-commerce backend written in Go, built around a RESTful API)
   - 🎁 <a href="https://github.com/milwad-dev/go-url-shortener"> Go URL Shortner</a> (The URL shortner built by Go & gRPC)
